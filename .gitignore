@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.open-next/
+.env.local
+.env
+.env.production
+.dev.vars
+*.tsbuildinfo
+.next/**
+.next/trace
+.next/cache/
+.next/build-manifest.json
